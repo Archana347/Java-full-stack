@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Flowers names</h2>
+
+<ul>
+<li>hibiscus</li>
+<li>marigold</li>
+<li>lotus</li>
+<li>lily</li>
+<li>sunflower</li>
+<li>rose</li>
+<li>orchid</li>
+<li>jasmine </li>
+<li>daffodils </li>
+<li>tulips </li>
+</ul>
+
+<h2>kanyakumari tourist places</h2>
+
+<ol>
+<li>vattakottai Fort</li>
+<li>Thiruvallur Statue </li>
+<li>sunset point</li>
+<li>Lemur beach </li>
+<li>sothavilai beach </li>
+<li>vivekananda rock memorial</li>
+<li>padmanabhapuram palace</li>
+<li>nagaraja temple</li>
+<li>mathoor thothi palam</li>
+<li>bay watch water theme park</li>
+</ol>
+<p>The southern soul of India</p>
+</body>
+</html>
